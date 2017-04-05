@@ -1,0 +1,12 @@
+package zmqsample;
+
+message Matrix {
+  required int32 dimensionX = 1;
+  required int32 dimensionY = 2;
+  repeated float element = 3;
+}
+
+message MatrixGemm {
+  required Matrix matrixA = 1;
+  required Matrix matrixB = 2; 
+}

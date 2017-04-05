@@ -1,2 +1,2 @@
-/root/MvnZMQ/src/main/java/hwclient.java
-/root/MvnZMQ/src/main/java/hwserver.java
+/root/MvnZMQ/frontend/src/main/java/com/zmqsample/Gemm.java
+/root/MvnZMQ/frontend/src/main/java/com/zmqsample/Client.java

@@ -1,2 +1,11 @@
-hwclient.class
-hwserver.class
+com/zmqsample/Gemm.class
+com/zmqsample/Gemm$MatrixGemmOrBuilder.class
+com/zmqsample/Gemm$Matrix$1.class
+com/zmqsample/Gemm$MatrixOrBuilder.class
+com/zmqsample/Gemm$1.class
+com/zmqsample/Gemm$Matrix.class
+com/zmqsample/Gemm$Matrix$Builder.class
+com/zmqsample/Gemm$MatrixGemm.class
+com/zmqsample/Client.class
+com/zmqsample/Gemm$MatrixGemm$Builder.class
+com/zmqsample/Gemm$MatrixGemm$1.class
